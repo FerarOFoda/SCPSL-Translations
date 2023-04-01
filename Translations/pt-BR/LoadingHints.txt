@@ -1,9 +1,9 @@
 Você pode desarmar um jogador ao interagir com ele enquanto segura uma arma de fogo.
-Há 4 zonas principais dentro da Instalação: Contenção Leve, Contenção Pesada, Entrada e Superfície.
+Há quatro zonas principais dentro da Instalação: Contenção Leve, Contenção Pesada, Entrada e Superfície.
 Os Cientistas e Classe-Ds devem chegar à Superfície para escapar.
 Guardas da Instalação são fracos sozinhos, porém são fortes em números. Fiquem próximos!
 Sua resistência é um recurso precioso, reserve um pouco para emergências!
-A Entrada possui 2 portões que provêm acesso à superfície. Você precisará de um cartão-chave para abrí-los.
+A Entrada possui dois portões que provêm acesso à superfície. Você precisará de um cartão-chave para abrí-los.
 Usar um elevador é uma maneira veloz e simples de fugir da maioria dos SCPs.
 Class-Ds que escaparam se juntam a Insurgência do Caos, enquantos Cientistas que escaparam viram MTF.
 A adrenalina pode ser usada para recuperar instantaneamente sua estamina e lhe dá vantagem em combate.
